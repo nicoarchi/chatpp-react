@@ -11,7 +11,7 @@ const firebase = require("firebase")
 require("firebase/firestore")
 
 firebase.initializeApp({
-  apiKey: "AIzaSyBm-T2J10dVJVpob_tH5GMBxGRVDIQepBg",
+  apiKey: "AIzaSyC5Jr4LEwbk4T1FrZeP4CKAMZH3GxpARGY",
   authDomain: "chatapp-archi.firebaseapp.com",
   databaseURL: "https://chatapp-archi.firebaseio.com",
   projectId: "chatapp-archi",
