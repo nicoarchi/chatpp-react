@@ -11,14 +11,7 @@ const firebase = require("firebase")
 require("firebase/firestore")
 
 firebase.initializeApp({
-  apiKey: "AIzaSyC5Jr4LEwbk4T1FrZeP4CKAMZH3GxpARGY",
-  authDomain: "chatapp-archi.firebaseapp.com",
-  databaseURL: "https://chatapp-archi.firebaseio.com",
-  projectId: "chatapp-archi",
-  storageBucket: "chatapp-archi.appspot.com",
-  messagingSenderId: "1227623010",
-  appId: "1:1227623010:web:f5c73f4f29049f07465f3b",
-  measurementId: "G-LX8WYZX1Z6"
+  // PRIVATE
 })
 
 const routing = (
